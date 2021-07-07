@@ -3,3 +3,4 @@ Linea creada en github
 Nuevo cambio para el branch branchPrueba
 4ta línea modificado en github en el branchPrueba
 5ta linea para que entre en conflicto
+6ta linea desde working directory
